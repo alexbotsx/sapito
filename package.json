@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

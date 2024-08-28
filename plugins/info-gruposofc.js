@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 ${tradutor.texto1[1]}
 1.- https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
+    'document': {url: `https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -22,7 +22,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/TheMystic-Bot-MD',
+        'mediaUrl': 'https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,

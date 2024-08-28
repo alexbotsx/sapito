@@ -63,7 +63,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD` },
+    document: { url: `https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -72,13 +72,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        mediaUrl: "https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i",
         mediaType: 2,
         previewType: "pdf",
         title: "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
         body: tradutor.texto2,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+        sourceUrl: "https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i",
       },
     },
     caption: info,

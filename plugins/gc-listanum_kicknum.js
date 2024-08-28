@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+      (https://whatsapp.com/channel/0029Val81KmBVJl22whkmi3i)
 */
 
 

@@ -44,5 +44,5 @@ _2da Sala : Demons_
 _3ra Sala : Perdedor De 1ra_
 
 
-*By : ancelzzz*
+*By : GHOST BOT*
 `;

@@ -36,7 +36,7 @@ ${tradutor.texto1[15]}
 ${tradutor.texto1[16]}
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR`},
+    'document': {url: `https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -45,7 +45,7 @@ ${tradutor.texto1[16]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR',
+        'mediaUrl': 'https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2,

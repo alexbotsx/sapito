@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR",
+  "homepage": "https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR.git"
+    "url": "git+https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR/issues"
+    "url": "https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

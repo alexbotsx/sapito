@@ -49,7 +49,7 @@ const handler = async (m, {command, conn}) => {
   }
 
   if (command == 'coffee') {
-    const haha = await conn.getFile(`https://coffee.alexflipnote.dev/random`);
+    const haha = await conn.getFile(`https://coffee.SAPITO BOTflipnote.dev/random`);
     await conn.reply(m.chat, global.wait, m);
     conn.sendMessage(m.chat, {image: {url: haha.data}, caption: `_${command}_`.trim()}, {quoted: m});
   }

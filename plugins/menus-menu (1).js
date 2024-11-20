@@ -36,8 +36,8 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 > *⌜ ＭＥＮＵ | ＣＯＭＰＬＥＴＯ ⌟*
 
 *╭━〔 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓 〕━╮*
-┃➔ ⭐ *Owner:* Alex
-┃➔ 📱 *Contacto*: wa.me/595984303784
+┃➔ ⭐ *Owner:* SAPITO BOT
+┃➔ 📱 *Contacto*: wa.me/51986914403
 ┃➔ 💌 *Pruebas:* 
 ╰━━━━━━━━━━━━━━╯
 
@@ -82,12 +82,12 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 > *𝘽𝙐𝙎𝘾𝘼𝙍 𝙑𝙎 𝙋𝙇𝘼𝙉𝙏𝙄𝙇𝙇𝘼𝙎 🫅🏻*
 ;;- ────────
-➜  ${usedPrefix}buscarvsmasc*
-➜  ${usedPrefix}bsmsac*
-➜  ${usedPrefix}buscarvsfem*
-➜  ${usedPrefix}bsfem*
-➜  ${usedPrefix}buscarvsmixto*
-➜  ${usedPrefix}bsmixto*
+➜  ${usedPrefix}buscarvsmasc
+➜  ${usedPrefix}bsmsac
+➜  ${usedPrefix}buscarvsfem
+➜  ${usedPrefix}bsfem
+➜  ${usedPrefix}buscarvsmixto
+➜  ${usedPrefix}bsmixto
 ︶︶︶︶︶︶︶︶
 
 > *𝙍𝙀𝙂𝙇𝘼𝙎 𝙇𝙄𝙎𝙏𝘼 𝙁𝙄𝘾𝙃𝘼* ✅

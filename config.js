@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['595984303784', 'Botcito Sexi', true],
-  ['595984303784', 'Botcito Sexi 1', true],
-  ['595984303784', 'Botcito Sexi 2', true],
-  ['595984303784', 'Botcito Sexi 3', true],
-  ['595984303784', 'Botcito Sexi 4', true],
-  ['595984303784', 'Botcito Sexi 5', true],
-  ['595984303784', 'Botcito Sexi 6', false],
-  ['595984303784', 'Botcito Sexi 7', true],
-  ['595984303784', 'Botcito Sexi 8', true],
-  ['595984303784', 'Botcito Sexi 9', true],
-  ['595984303784', 'Botcito Sexi 19', true], 
-  ['595984303784', 'Botcito Sexi 11', true],
-  ['595984303784', 'Botcito Sexi 12', true], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],  
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784']
+  ['51986914403', 'Botcito Sexi', true],
+  ['51986914403', 'Botcito Sexi 1', true],
+  ['51986914403', 'Botcito Sexi 2', true],
+  ['51986914403', 'Botcito Sexi 3', true],
+  ['51986914403', 'Botcito Sexi 4', true],
+  ['51986914403', 'Botcito Sexi 5', true],
+  ['51986914403', 'Botcito Sexi 6', false],
+  ['51986914403', 'Botcito Sexi 7', true],
+  ['51986914403', 'Botcito Sexi 8', true],
+  ['51986914403', 'Botcito Sexi 9', true],
+  ['51986914403', 'Botcito Sexi 19', true], 
+  ['51986914403', 'Botcito Sexi 11', true],
+  ['51986914403', 'Botcito Sexi 12', true], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'],  
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'], 
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403'],
+  ['51986914403']
 ];
 
-global.suittag = ['595984303784'];
-global.prems = ['595984303784'];
+global.suittag = ['51986914403'];
+global.prems = ['51986914403'];
 
 global.packname = 'Sticker';
-global.author = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.wm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.titulowm2 = `𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`
-global.igfg = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+global.author = 'SAPITO BOT ';
+global.wm = 'SAPITO BOT ';
+global.titulowm = 'SAPITO BOT ';
+global.titulowm2 = `SAPITO BOT `
+global.igfg = 'SAPITO BOT ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧`;
-global.gt = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
-global.mysticbot = '𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧';
+global.wm2 = `${dia} ${fecha}\nSAPITO BOT `;
+global.gt = 'SAPITO BOT ';
+global.mysticbot = 'SAPITO BOT ';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
-global.mysticbot = 'https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR';
+global.md = 'https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy';
+global.mysticbot = 'https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '595984303784';
+global.nomorown = '51986914403';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

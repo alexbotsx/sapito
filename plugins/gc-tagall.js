@@ -9,7 +9,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
           *_BOT GHOST_*
 
 *🎭  Venta de bots, plataformas de streaming, cuentas ff, Regedit , recargas de diamantes, etc.*
- *https://chat.whatsapp.com/GR7mHgTet2ADjjD3gdiAWR*\n\n ${oi}\n\n`
+ *https://www.instagram.com/yaritza.dzn05/profilecard/?igsh=cG83NHNkYzNrangy*\n\n ${oi}\n\n`
   for (let mem of participants) {
   teks += `￫ 🔱 @${mem.id.split('@')[0]}\n`}
   teks += `ㅤㅤㅤㅤ𝑨𝒍𝒆𝒙𝒏𝑽𝒆𝒏𝒕𝒂𝒔 🥷🏼`

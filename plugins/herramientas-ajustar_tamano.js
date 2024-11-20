@@ -17,9 +17,9 @@ const handler = async (m, {conn, usedPrefix, command, args, text}) => {
   const url = await uploadImage(img);
 
   if (/image\/(jpe?g|png)/.test(mime)) {
-    conn.sendMessage(m.chat, {image: {url: url}, caption: tradutor.texto5, fileLength: `${text}`, mentions: [m.sender]}, {ephemeralExpiration: 24*3600, quoted: m});
+    conn.sendMessage(m.chat, {image: {url: url}, caption: tradutor.texto5, fileLength: `${text}`, mentions: [m.sender]}, {ephemerSAPITO BOTpiration: 24*3600, quoted: m});
   } else if (/video/.test(mime)) {
-    return conn.sendMessage(m.chat, {video: {url: url}, caption: tradutor.texto5, fileLength: `${text}`, mentions: [m.sender]}, {ephemeralExpiration: 24*3600, quoted: m});
+    return conn.sendMessage(m.chat, {video: {url: url}, caption: tradutor.texto5, fileLength: `${text}`, mentions: [m.sender]}, {ephemerSAPITO BOTpiration: 24*3600, quoted: m});
   }
 };
 handler.tags = ['tools'];
